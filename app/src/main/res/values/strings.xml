@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExcitingNews</string>
+    <string name="wamenkominfo_title">Wamenkominfo Minta Masyarakat Waspada Penyalahgunaan Deepfake hingga Peretasan Toyota</string>
+    <string name="search_hint">Cari berita</string>
+    <string name="scroll_to_top">Kembali ke atas</string>
+
+    <string name="home_title">Home</string>
+    <string name="detail_title">Detail</string>
+    <string name="search_title">Search</string>
+    <string name="bookmark_title">Bookmark</string>
+    <string name="about_title">About</string>
+</resources>
